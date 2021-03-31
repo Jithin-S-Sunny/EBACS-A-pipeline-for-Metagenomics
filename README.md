@@ -18,3 +18,7 @@ Work currently under review
 
 
 ## Link to download Pipeline to extract Organism specific literature & network creation: https://indenzymes.srmist.edu.in/Downloads
+
+
+## Publication 
+Compost Samples from Different Temperature Zones as a Model to Study Co-... https://doi.org/10.1007/s00284-021-02456-2 (doi: 10.1007/s00284-021-02456-2)
