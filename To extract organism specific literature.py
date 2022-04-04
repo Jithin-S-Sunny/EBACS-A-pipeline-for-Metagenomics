@@ -54,7 +54,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import warnings 
 warnings.filterwarnings('ignore') 
-G=nx.Graph(day="Stackoverflow") 
+G=nx.Graph(day="X") 
 df_nodes=pd.read_csv("nodes.csv") 
 df_edges=pd.read_csv("edges.csv") 
 for index, row in df_nodes.iterrows():
