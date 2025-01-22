@@ -21,4 +21,5 @@ Work currently under review
 
 
 ## Publication 
-Compost Samples from Different Temperature Zones as a Model to Study Co-... https://doi.org/10.1007/s00284-021-02456-2 (doi: 10.1007/s00284-021-02456-2)
+Article link: https://link.springer.com/article/10.1007/s00284-021-02456-2
+
