@@ -8,16 +8,8 @@ The input file is an excel (.csv format) organisms names in a single column. Add
 
 SRM-IST HPC systems
 
-### License
 
-GNU General Public License v3.0 (https://www.gnu.org/licenses/gpl-3.0.en.html)
-
-
-### Project status
-Work currently under review
-
-
-## Link to download Pipeline to extract Organism specific literature & network creation: https://indenzymes.srmist.edu.in/Downloads
+## [Link to download Pipeline](https://indenzymes.srmist.edu.in/Downloads)
 
 
 ## Publication 
