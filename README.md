@@ -21,5 +21,5 @@ Work currently under review
 
 
 ## Publication 
-Article link: https://link.springer.com/article/10.1007/s00284-021-02456-2
+[Article link](https://link.springer.com/article/10.1007/s00284-021-02456-2)
 
